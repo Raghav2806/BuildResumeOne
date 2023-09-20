@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BuilderResumeOne/static/css/main.eefc237f.css",
+    "main.js": "/BuilderResumeOne/static/js/main.e3569882.js",
+    "index.html": "/BuilderResumeOne/index.html",
+    "static/media/telephone-fill.svg": "/BuilderResumeOne/static/media/telephone-fill.92e390f92427328323834e1b8ab89138.svg",
+    "static/media/envelope-fill.svg": "/BuilderResumeOne/static/media/envelope-fill.7828ea972566d7acd02102084ef56f46.svg",
+    "static/media/geo-alt-fill.svg": "/BuilderResumeOne/static/media/geo-alt-fill.94c6a40d70da7b868b3ef5f3020a41d5.svg",
+    "main.eefc237f.css.map": "/BuilderResumeOne/static/css/main.eefc237f.css.map",
+    "main.e3569882.js.map": "/BuilderResumeOne/static/js/main.e3569882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.e3569882.js"
+  ]
+}
